@@ -2,43 +2,58 @@
   <div class="container">
     <div class="section-head reveal">
       <span class="tag" style="color:var(--silver)">//  Recursos y noticias</span>
-      <h2 style="color:#fff">Blog de <span style="color:var(--red)">Almacenamiento</span></h2>
-      <p>Consejos, guías y novedades del sector para optimizar tu depósito.</p>
+      <h2 style="color:#fff">Blog para <span style="color:var(--red)">decisiones logísticas</span></h2>
+      <p>Contenido práctico para mejorar seguridad, productividad y rentabilidad en depósitos industriales.</p>
     </div>
+
     <div class="blog-grid">
-      <div class="blog-card reveal d1">
+      <a href="#" class="blog-card blog-link reveal d1" aria-label="Artículo sobre layout logístico">
         <div class="blog-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-scaled.jpg" alt="Blog" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-scaled.jpg" alt="Layout logístico para depósitos" loading="lazy">
+          <span class="coming-soon">Próximamente</span>
         </div>
         <div class="blog-card-body">
-          <span class="blog-tag">Guía</span>
-          <h4>Cómo elegir el rack adecuado para tu depósito</h4>
-          <p>Claves para seleccionar el sistema de almacenamiento ideal según el tipo de mercadería, la altura del techo y el volumen de operaciones.</p>
+          <span class="blog-tag">Logística</span>
+          <h4>Cómo diseñar un layout logístico que reduzca recorridos y errores</h4>
+          <p>Metodología simple para ordenar zonas de recepción, picking y despacho sin frenar la operación.</p>
         </div>
-      </div>
-      <div class="blog-card reveal d2">
+      </a>
+
+      <a href="#" class="blog-card blog-link reveal d2" aria-label="Artículo sobre seguridad en racks">
         <div class="blog-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-7.png" alt="Blog" loading="lazy">
-        </div>
-        <div class="blog-card-body">
-          <span class="blog-tag">Optimización</span>
-          <h4>5 formas de duplicar la capacidad de tu almacén sin ampliar el espacio</h4>
-          <p>Desde sistemas Movibloc hasta entrepisos metálicos: estrategias concretas para maximizar tu superficie útil.</p>
-        </div>
-      </div>
-      <div class="blog-card reveal d3">
-        <div class="blog-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes-4.png" alt="Blog" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes-4.png" alt="Seguridad en racks industriales" loading="lazy">
+          <span class="coming-soon">Próximamente</span>
         </div>
         <div class="blog-card-body">
           <span class="blog-tag">Seguridad</span>
-          <h4>Normas de seguridad en racks industriales: lo que todo gerente debe saber</h4>
-          <p>Inspecciones, cargas máximas, señalización y mantenimiento preventivo para garantizar un depósito seguro.</p>
+          <h4>Checklist de seguridad para racks: inspecciones, cargas y señalización</h4>
+          <p>Guía de control preventivo para reducir riesgos operativos y proteger a tu equipo de trabajo.</p>
         </div>
-      </div>
-    </div>
-    <div style="text-align:center;margin-top:2.5rem">
-      <a href="#contacto" class="btn btn-outline reveal" style="border-color:rgba(255,255,255,.3)">Ver todos los artículos →</a>
+      </a>
+
+      <a href="#" class="blog-card blog-link reveal d3" aria-label="Artículo sobre optimización de depósito">
+        <div class="blog-card-img">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-7.png" alt="Optimización de depósito" loading="lazy">
+          <span class="coming-soon">Próximamente</span>
+        </div>
+        <div class="blog-card-body">
+          <span class="blog-tag">Optimización</span>
+          <h4>7 mejoras rápidas para optimizar tu depósito en menos de 30 días</h4>
+          <p>Acciones concretas para ganar espacio útil, acelerar preparación de pedidos y disminuir quiebres.</p>
+        </div>
+      </a>
+
+      <a href="#" class="blog-card blog-link reveal d4" aria-label="Artículo sobre ROI de racks">
+        <div class="blog-card-img">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2023/09/Untitled-design-60.png" alt="ROI en sistemas de racks" loading="lazy">
+          <span class="coming-soon">Próximamente</span>
+        </div>
+        <div class="blog-card-body">
+          <span class="blog-tag">ROI</span>
+          <h4>Cómo calcular el retorno de inversión de un sistema de racks metálicos</h4>
+          <p>Modelo de cálculo con variables clave: capacidad, productividad, seguridad y costo de oportunidad.</p>
+        </div>
+      </a>
     </div>
   </div>
 </section>
