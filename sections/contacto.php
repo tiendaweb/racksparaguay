@@ -45,39 +45,39 @@
               <span class="rack-selector-label">¿Qué tipo de rack te interesa? (podés elegir varios)</span>
               <div class="rack-options">
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Rack Selectivo">
-                  <div class="rack-option-icon">🏗️</div>
+                  <div class="rack-option-icon"><svg class="icon icon-rack" aria-hidden="true"><use href="#icon-rack"></use></svg></div>
                   <div class="rack-option-name">Rack Selectivo</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Cantilever">
-                  <div class="rack-option-icon">📐</div>
+                  <div class="rack-option-icon"><svg class="icon icon-ruler" aria-hidden="true"><use href="#icon-ruler"></use></svg></div>
                   <div class="rack-option-name">Cantilever</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Movibloc">
-                  <div class="rack-option-icon">🔄</div>
+                  <div class="rack-option-icon"><svg class="icon icon-rocket" aria-hidden="true"><use href="#icon-rocket"></use></svg></div>
                   <div class="rack-option-name">Movibloc</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Ángulo Ranurado">
-                  <div class="rack-option-icon">📚</div>
+                  <div class="rack-option-icon"><svg class="icon icon-rack" aria-hidden="true"><use href="#icon-rack"></use></svg></div>
                   <div class="rack-option-name">Ángulo Ranurado</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Dinámicos FIFO">
-                  <div class="rack-option-icon">⚡</div>
+                  <div class="rack-option-icon"><svg class="icon icon-bolt" aria-hidden="true"><use href="#icon-bolt"></use></svg></div>
                   <div class="rack-option-name">Dinámicos FIFO</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Entrepisos">
-                  <div class="rack-option-icon">🏢</div>
+                  <div class="rack-option-icon"><svg class="icon icon-rack" aria-hidden="true"><use href="#icon-rack"></use></svg></div>
                   <div class="rack-option-name">Entrepisos</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="Cerramientos">
-                  <div class="rack-option-icon">🛡️</div>
+                  <div class="rack-option-icon"><svg class="icon icon-check-circle" aria-hidden="true"><use href="#icon-check-circle"></use></svg></div>
                   <div class="rack-option-name">Cerramientos</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="A Medida">
-                  <div class="rack-option-icon">✏️</div>
+                  <div class="rack-option-icon"><svg class="icon icon-ruler" aria-hidden="true"><use href="#icon-ruler"></use></svg></div>
                   <div class="rack-option-name">A Medida</div>
                 </div>
                 <div class="rack-option" onclick="toggleRack(this)" data-name="No sé, necesito asesoría">
-                  <div class="rack-option-icon">🤔</div>
+                  <div class="rack-option-icon"><svg class="icon icon-calendar" aria-hidden="true"><use href="#icon-calendar"></use></svg></div>
                   <div class="rack-option-name">No sé, necesito asesoría</div>
                 </div>
               </div>
@@ -105,7 +105,7 @@
 
           <div class="form-submit">
             <button type="submit" class="btn btn-accent">
-              📋 Enviar Solicitud de Cotización
+              <svg class="icon icon-clipboard" aria-hidden="true"><use href="#icon-clipboard"></use></svg><span>Enviar Solicitud de Cotización</span>
             </button>
           </div>
           <p class="form-note">Al enviar, te contactaremos por WhatsApp o email. Sin spam, sin compromisos.</p>
@@ -113,7 +113,7 @@
       </div>
 
       <div class="form-success" id="formSuccess">
-        <div style="font-size:3rem;margin-bottom:1rem">🎉</div>
+        <div class="form-success-icon" role="img" aria-label="Solicitud enviada con éxito"><svg class="icon icon-party" aria-hidden="true"><use href="#icon-party"></use></svg><span class="sr-only">Solicitud enviada con éxito</span></div>
         <h3>¡Solicitud enviada!</h3>
         <p style="margin-top:.5rem">Un asesor te contactará en menos de 24 horas para darte una propuesta personalizada.</p>
         <div style="margin-top:1.5rem">
@@ -139,28 +139,28 @@
 
         <div class="contact-items">
           <div class="contact-item">
-            <div class="ci-icon">📍</div>
+            <div class="ci-icon"><svg class="icon icon-map-pin" aria-hidden="true"><use href="#icon-map-pin"></use></svg></div>
             <div>
               <div class="ci-label">Dirección</div>
               <div class="ci-value">Km 26 Ruta 2, Itauguá, Paraguay</div>
             </div>
           </div>
           <a href="tel:+595984034538" class="contact-item" style="display:flex;">
-            <div class="ci-icon">📞</div>
+            <div class="ci-icon"><svg class="icon icon-phone" aria-hidden="true"><use href="#icon-phone"></use></svg></div>
             <div>
               <div class="ci-label">Teléfono</div>
               <div class="ci-value">+595 984 034 538</div>
             </div>
           </a>
           <a href="https://wa.me/595984034538" target="_blank" class="contact-item" style="display:flex;">
-            <div class="ci-icon">💬</div>
+            <div class="ci-icon"><svg class="icon icon-whatsapp" aria-hidden="true"><use href="#icon-whatsapp"></use></svg></div>
             <div>
               <div class="ci-label">WhatsApp</div>
               <div class="ci-value">Escribinos ahora</div>
             </div>
           </a>
           <a href="mailto:racksparaguay@gmail.com" class="contact-item" style="display:flex;">
-            <div class="ci-icon">✉️</div>
+            <div class="ci-icon"><svg class="icon icon-mail" aria-hidden="true"><use href="#icon-mail"></use></svg></div>
             <div>
               <div class="ci-label">Email</div>
               <div class="ci-value">racksparaguay@gmail.com</div>
@@ -171,7 +171,7 @@
 
       <div class="reveal-right">
         <div class="horarios-card">
-          <h4>🕐 Horarios de Atención</h4>
+          <h4><svg class="icon icon-calendar" aria-hidden="true"><use href="#icon-calendar"></use></svg><span>Horarios de Atención</span></h4>
           <div class="horario-row">
             <span class="horario-day">Lunes</span>
             <span class="horario-time">8AM – 8PM</span>
@@ -201,7 +201,7 @@
             <span class="horario-time" style="color:#889">Cerrado</span>
           </div>
           <a href="https://wa.me/595984034538?text=Hola%2C+quiero+agendar+una+reuni%C3%B3n%2C+%C2%BFest%C3%A1n+disponibles%3F" target="_blank" class="horario-cita-btn">
-            📅 Agendar una cita por WhatsApp
+            <svg class="icon icon-calendar" aria-hidden="true"><use href="#icon-calendar"></use></svg><span>Agendar una cita por WhatsApp</span>
           </a>
         </div>
       </div>

@@ -30,10 +30,10 @@
       <div class="footer-col">
         <h5>Contacto</h5>
         <div class="footer-links">
-          <a href="tel:+595984034538">📞 +595 984 034 538</a>
-          <a href="https://wa.me/595984034538" target="_blank">💬 WhatsApp</a>
-          <a href="mailto:racksparaguay@gmail.com">✉️ racksparaguay@gmail.com</a>
-          <a href="#">📍 Km 26 Ruta 2, Itauguá</a>
+          <a href="tel:+595984034538"><svg class="icon icon-phone" aria-hidden="true"><use href="#icon-phone"></use></svg><span>+595 984 034 538</span></a>
+          <a href="https://wa.me/595984034538" target="_blank"><svg class="icon icon-whatsapp" aria-hidden="true"><use href="#icon-whatsapp"></use></svg><span>WhatsApp</span></a>
+          <a href="mailto:racksparaguay@gmail.com"><svg class="icon icon-mail" aria-hidden="true"><use href="#icon-mail"></use></svg><span>racksparaguay@gmail.com</span></a>
+          <a href="#"><svg class="icon icon-map-pin" aria-hidden="true"><use href="#icon-map-pin"></use></svg><span>Km 26 Ruta 2, Itauguá</span></a>
         </div>
       </div>
     </div>

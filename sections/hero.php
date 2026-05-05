@@ -36,7 +36,7 @@
       </p>
 
       <div class="hero-btns">
-        <a href="#cotizacion" class="btn btn-red">📋 Solicitar Cotización</a>
+        <a href="#cotizacion" class="btn btn-red"><svg class="icon icon-clipboard" aria-hidden="true"><use href="#icon-clipboard"></use></svg><span>Solicitar Cotización</span></a>
         <a href="#catalogo" class="btn btn-outline">Ver Catálogo</a>
       </div>
 
@@ -59,27 +59,27 @@
     <div class="hero-right">
       <div class="hero-card-grid">
         <div class="hero-card">
-          <div class="hero-card-icon">🏗️</div>
+          <div class="hero-card-icon"><svg class="icon icon-rack" aria-hidden="true"><use href="#icon-rack"></use></svg></div>
           <div class="hero-card-title">Racks Selectivos</div>
           <div class="hero-card-desc">Acceso directo a cada pallet</div>
         </div>
         <div class="hero-card">
-          <div class="hero-card-icon">📐</div>
+          <div class="hero-card-icon"><svg class="icon icon-ruler" aria-hidden="true"><use href="#icon-ruler"></use></svg></div>
           <div class="hero-card-title">Cantilever</div>
           <div class="hero-card-desc">Cargas largas y voluminosas</div>
         </div>
         <div class="hero-card">
-          <div class="hero-card-icon">🔩</div>
+          <div class="hero-card-icon"><svg class="icon icon-bolt" aria-hidden="true"><use href="#icon-bolt"></use></svg></div>
           <div class="hero-card-title">A Medida</div>
           <div class="hero-card-desc">Diseño personalizado 100%</div>
         </div>
         <div class="hero-card">
-          <div class="hero-card-icon">🚀</div>
+          <div class="hero-card-icon"><svg class="icon icon-rocket" aria-hidden="true"><use href="#icon-rocket"></use></svg></div>
           <div class="hero-card-title">Movibloc</div>
           <div class="hero-card-desc">Bases móviles, máximo espacio</div>
         </div>
         <div class="hero-card span-2">
-          <div class="hero-card-icon">📞</div>
+          <div class="hero-card-icon"><svg class="icon icon-phone" aria-hidden="true"><use href="#icon-phone"></use></svg></div>
           <div class="hero-card-title">Asesoría gratuita · +595 984 034 538</div>
           <div class="hero-card-desc">Lun–Vie 8AM–8PM · Sáb 10AM–2PM</div>
         </div>
