@@ -8,7 +8,7 @@
     <div class="cat-grid">
       <div class="cat-card reveal d1">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes-4.png" alt="Cantilever" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes-4.png" alt="Rack cantilever para cargas largas en depósito industrial" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -20,7 +20,7 @@
       </div>
       <div class="cat-card reveal d2">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-scaled.jpg" alt="Rack Selectivo" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-scaled.jpg" alt="Sistema de rack selectivo para pallets con acceso directo" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -32,7 +32,7 @@
       </div>
       <div class="cat-card reveal d3">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-7.png" alt="Movibloc" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-7.png" alt="Sistema Movibloc de racks móviles de alta densidad" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -44,7 +44,7 @@
       </div>
       <div class="cat-card reveal d1">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-6.png" alt="Estantería Ángulo Ranurado" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-6.png" alt="Estantería de ángulo ranurado para organización de stock" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -56,7 +56,7 @@
       </div>
       <div class="cat-card reveal d2">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-8.png" alt="Racks Dinámicos" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-8.png" alt="Racks dinámicos por gravedad para preparación de pedidos" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -68,7 +68,7 @@
       </div>
       <div class="cat-card reveal d3">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-3.png" alt="Entrepisos" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/09/racks-imagenes-3.png" alt="Entrepisos metálicos para ampliar superficie útil de almacenamiento" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -80,7 +80,7 @@
       </div>
       <div class="cat-card reveal d1">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes.png" alt="Cerramientos de Seguridad" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes.png" alt="Cerramientos metálicos de seguridad para áreas logísticas" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
@@ -92,7 +92,7 @@
       </div>
       <div class="cat-card reveal d2">
         <div class="cat-card-img">
-          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes-5.png" alt="Racks a Medida" loading="lazy">
+          <img src="https://racksparaguay.com.py/wp-content/uploads/2020/10/racks-imagenes-5.png" alt="Racks metálicos a medida según layout del cliente" loading="lazy">
           <div class="cat-card-overlay">
             <a href="#cotizacion" class="cat-overlay-btn">Solicitar Cotización →</a>
           </div>
