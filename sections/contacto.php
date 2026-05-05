@@ -104,7 +104,7 @@
           </div>
 
           <div class="form-submit">
-            <button type="submit" class="btn btn-green">
+            <button type="submit" class="btn btn-accent">
               📋 Enviar Solicitud de Cotización
             </button>
           </div>
@@ -117,7 +117,7 @@
         <h3>¡Solicitud enviada!</h3>
         <p style="margin-top:.5rem">Un asesor te contactará en menos de 24 horas para darte una propuesta personalizada.</p>
         <div style="margin-top:1.5rem">
-          <a href="https://wa.me/595984034538" target="_blank" class="btn btn-green">
+          <a href="https://wa.me/595984034538" target="_blank" class="btn btn-accent">
             También podés escribirnos por WhatsApp
           </a>
         </div>

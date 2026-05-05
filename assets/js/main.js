@@ -90,7 +90,7 @@ function submitForm(e) {
     <h3 style="color:var(--accent);font-size:2rem;margin-bottom:.5rem">¡Solicitud enviada!</h3>
     <p style="color:rgba(255,255,255,.7)">Un asesor te contactará en menos de 24 horas.</p>
     <div style="margin-top:1.5rem">
-      <a href="https://wa.me/595984034538?text=${waText}" target="_blank" class="btn btn-green" style="margin:0 auto">
+      <a href="https://wa.me/595984034538?text=${waText}" target="_blank" class="btn btn-accent" style="margin:0 auto">
         ✅ También enviá tu consulta por WhatsApp
       </a>
     </div>
