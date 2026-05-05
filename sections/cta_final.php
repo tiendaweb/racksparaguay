@@ -41,7 +41,7 @@
     <div class="pq-grid">
       <div class="pq-card yes reveal d1">
         <div class="pq-header">
-          <div class="pq-emoji">✅</div>
+          <div class="pq-emoji"><svg class="icon icon-check-circle" aria-hidden="true"><use href="#icon-check-circle"></use></svg></div>
           <h3>Sí es para vos si…</h3>
         </div>
         <div class="pq-items">
@@ -56,7 +56,7 @@
       </div>
       <div class="pq-card no reveal d2">
         <div class="pq-header">
-          <div class="pq-emoji">❌</div>
+          <div class="pq-emoji"><svg class="icon icon-x-circle" aria-hidden="true"><use href="#icon-x-circle"></use></svg></div>
           <h3>No es para vos si…</h3>
         </div>
         <div class="pq-items">
