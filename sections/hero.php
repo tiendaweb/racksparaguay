@@ -1,9 +1,20 @@
-<section id="hero">
-  <div class="hero-video">
-    <video autoplay loop muted playsinline>
+<section id="hero" class="hero-media" data-hero-media>
+  <div class="hero-poster" aria-hidden="true"></div>
+
+  <div class="hero-video" aria-hidden="true">
+    <video
+      muted
+      playsinline
+      autoplay
+      loop
+      preload="metadata"
+      poster="https://racksparaguay.com.py/wp-content/uploads/2023/09/Untitled-design-60.png"
+      data-hero-video
+    >
       <source src="https://racksparaguay.com.py/wp-content/uploads/2023/09/Untitled-design-7-Compressed-with-FlexClip.mp4" type="video/mp4">
     </video>
   </div>
+
   <div class="hero-overlay"></div>
   <div class="hero-slash"></div>
 
